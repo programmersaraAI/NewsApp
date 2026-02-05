@@ -28,3 +28,6 @@ A simple News application built with Swift and UIKit using MVVM architecture.
 https://jsonplaceholder.typicode.com/posts
 
 ##  Architecture
+
+## Note
+Please be aware that the `main.storyboard` file and other app files are still under development. Features and layouts may change as the project progresses.
